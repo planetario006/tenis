@@ -1,0 +1,14 @@
+{
+  "port": 9876,
+  "onset_dps": 350.0,
+  "power_min_dps": 350.0,
+  "power_max_dps": 1500.0,
+  "yaw_axis": 2,
+  "yaw_sign": 1.0,
+  "pitch_axis": 2,
+  "pitch_sign": -1.0,
+  "cross_min_deg": 15.0,
+  "cross_max_deg": 80.0,
+  "invert_lateral": false,
+  "toss_up_ratio": 0.5
+}
